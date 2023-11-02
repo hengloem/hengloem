@@ -1,11 +1,9 @@
-# Greetings 👋
+# Hello 👋
 
-I am Heng, from Koh Kong Province. I hold a bachelor's degree in Web Programming from the University of Puthisastra. I work as a System Development Supervisor in a private company based in Phnom Penh, Cambodia.
+I'm Heng. I embarked on my journey as a web developer in 2017, and over the years, I've cultivated a strong professional background in web development, design, and security. I thrive on collaboration, maintain a structured and organized approach to my work, and excel in problem-solving. My passion for development drives me to continually enhance my skills throughout the development process, ensuring that the solutions I create are modern, user-friendly, robust, and secure.
 
-I firmly believe in treating everyone with respect and dignity, regardless of their background or social status. Time management is a priority for me, and I'm committed to continuous learning and staying updated in my field. I enjoy music, movies, exercise, and writing during my free time.
+I'm actively involved in open-source development and have shared my insights through professional articles on various platforms like my website, Google Local Guide, LinkedIn, Facebook, YouTube, and Blogger.
 
-Lastly, I express my immense gratitude to Passerelles Numeriques Cambodia for providing me with a 100% scholarship and outstanding career opportunities. This organization empowers underprivileged students in remote areas to pursue higher education, and I feel privileged to have been a part of their inspiring initiative.
-If you're interested in collaborating, please feel free to contact me.
+My expertise lies in creating engaging experiences with HTML, CSS, and JavaScript. While I enjoy exploring new technologies, I specialize in Angular, Java Spring Boot, and MS SQL Server. On a lighter note, I'm a gamer and the proud owner of the In Time Gaming Brand.
 
-Best regards,
-Heng LOEM
+In my free time, I have a few hobbies, including motorbike riding, working out, music appreciation, Donghau, and gaming.
