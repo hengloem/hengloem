@@ -1,22 +1,14 @@
-<h1 align="center">Hi 👋, I'm Heng.</h1>
-<h3 align="center">A passionate and adaptable front-end developer from Cambodia.</h3>
-
+<h1 align="center">Hello👋, I'm Heng.</h1>
+<h3 align="center">A passionate & adaptable front-end developer from Cambodia.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hengloem&label=Profile%20views&color=0e75b6&style=flat" alt="hengloem" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hengloem" alt="hengloem" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/iamhengofficial" target="blank"><img src="https://img.shields.io/twitter/follow/iamhengofficial?logo=twitter&style=for-the-badge" alt="iamhengofficial" /></a> </p>
 
 - 🌱 I’m currently learning **Framework, course, etc.**
-
 - 👨‍💻 All of my projects are available at [www.loemheng.com](www.loemheng.com)
-
 - 📝 I regularly write articles on [www.intimegaming.com](www.intimegaming.com)
-
 - 💬 Ask me about **coding, gaming, or making money online.**
-
 - 📫 How to reach me **hengloem.pnc@gmail.com**
-
 - ⚡ Fun fact **I believe I have a handsome appearance.**
 
 <h3 align="left">Connect with me:</h3>
@@ -39,7 +31,7 @@
 <h3 align="left">My State:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hengloem&show_icons=true&locale=en&layout=compact" alt="hengloem" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hengloem&show_icons=true&locale=en" alt="hengloem" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=hengloem&show_icons=true&locale=en" alt="hengloem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hengloem&" alt="hengloem" /></p>
 
