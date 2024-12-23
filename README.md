@@ -1,8 +1,7 @@
 <h1 align="center">Hello👋, I'm Heng.</h1>
 <h3 align="center">A passionate & adaptable front-end developer from Cambodia.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hengloem&label=Profile%20views&color=0e75b6&style=flat" alt="hengloem" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hengloem" alt="hengloem" /></a> </p>
-<p align="left"> <a href="https://twitter.com/iamhengofficial" target="blank"><img src="https://img.shields.io/twitter/follow/iamhengofficial?logo=twitter&style=for-the-badge" alt="iamhengofficial" /></a> </p>
+<p align="left"> <a href="https://github.com/hengloem/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hengloem&theme=flat&row=2&column=4&margin-w=15&margin-h=15" alt="hengloem" /></a> </p>
 
 - 🌱 I’m currently learning **Framework, course, etc.**
 - 👨‍💻 All of my projects are available at [www.loemheng.com](www.loemheng.com)
