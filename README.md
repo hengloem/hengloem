@@ -1,11 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Heng" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Heng" alt="Typing SVG" />
 </h1>
 <h3 align="center">A passionate and adaptable front-end developer from Cambodia 🇰🇭</h3>
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=5D7EB8&center=true&vCenter=true&width=435&lines=Turning+ideas+into+reality+with+code" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=5D7EB8&center=true&vCenter=true&width=435&lines=Turning+ideas+into+reality+with+code" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -136,5 +138,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/hengloem/hengloem/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=5D7EB8&center=true&vCenter=true&width=435&lines=Thank+you!" alt="Typing SVG" />
+  </a>
 </p>
