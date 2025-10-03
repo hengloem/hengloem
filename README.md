@@ -15,22 +15,6 @@
   <a href="https://github.com/hengloem?tab=followers"><img src="https://img.shields.io/github/followers/hengloem?label=Follow&style=social" alt="GitHub Followers"></a>
 </p>
 
-<!-- About Me Section -->
-## 🧑‍💻 About Me
-
-<div align="center">
-  
-| | |
-|:---:|:---:|
-| 🌱 **Currently learning** | **Frameworks, advanced courses, and more** |
-| 👨‍💻 **Explore my projects** | [www.loemheng.com](https://www.loemheng.com) |
-| 📝 **Check out my articles** | [www.intimegaming.com](https://www.intimegaming.com) |
-| 💬 **Ask me about** | **Coding, gaming, or making money online** |
-| 📫 **Contact me** | **hengloem.pnc@gmail.com** |
-| ⚡ **Fun fact** | **I believe I have a charming personality.** |
-
-</div>
-
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
 
