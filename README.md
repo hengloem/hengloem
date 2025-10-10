@@ -3,13 +3,6 @@
 </h1>
 <h3 align="center">A passionate and adaptable front-end developer from Cambodia 🇰🇭</h3>
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=5D7EB8&center=true&vCenter=true&width=435&lines=Turning+ideas+into+reality+with+code" alt="Typing SVG" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hengloem&label=Profile%20Views&color=0e75b6&style=flat" alt="hengloem" />
   <a href="https://github.com/hengloem?tab=followers"><img src="https://img.shields.io/github/followers/hengloem?label=Follow&style=social" alt="GitHub Followers"></a>
@@ -30,7 +23,7 @@
 <!-- Connect with Me Section -->
 ## 🤝 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://dev.to/hengloem" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
   </a>
@@ -57,10 +50,12 @@
 <!-- Skills and Tools Section -->
 ## 🛠️ Languages and Tools
 
-<div align="center">
-
-### Frontend Development
+<div align="left">
 <p>
+  <!-- Core Frontend -->
+  <a href="https://angular.io" target="_blank">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   </a>
@@ -70,31 +65,32 @@
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   </a>
-  <a href="https://angular.io" target="_blank">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   </a>
-</p>
 
-### Backend & Databases
-<p>
-  <a href="https://codeigniter.com" target="_blank">
-    <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+  <!-- Mobile Development -->
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="DotNet" />
-  </a>
-</p>
-
-### Mobile & Others
-<p>
   <a href="https://developer.android.com" target="_blank">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+
+  <!-- Backend & API -->
+  <a href="https://codeigniter.com" target="_blank">
+    <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  </a>
+
+  <!-- Database & Cloud -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
@@ -102,17 +98,32 @@
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  </a>
+
+  <!-- DevOps & Tools -->
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  </a>
+
+  <!-- Design & Productivity -->
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  </a>
 </p>
-
 </div>
 
 ---
